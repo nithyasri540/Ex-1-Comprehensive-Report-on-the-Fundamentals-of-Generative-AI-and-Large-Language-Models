@@ -63,7 +63,7 @@ Step 6: Review and Edit 6.1 Proofread for grammar, spelling, and clarity 6.2 Ens
 Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as PDF or desired format 7.3 Prepare a brief presentation if required (optional)
 
 
-Output:
+Output:https://lms2.ai.saveetha.in/pluginfile.php/100398/assignsubmission_file/submission_files/529739/prompt%20exp%20no%201.pdf?forcedownload=1
 
 
 Result:
